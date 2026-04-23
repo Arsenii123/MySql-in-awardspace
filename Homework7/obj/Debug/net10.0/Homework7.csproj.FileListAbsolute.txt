@@ -1,0 +1,17 @@
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\bin\Debug\net10.0\Homework7.exe
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\bin\Debug\net10.0\Homework7.deps.json
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\bin\Debug\net10.0\Homework7.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\bin\Debug\net10.0\Homework7.dll
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\bin\Debug\net10.0\Homework7.pdb
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\obj\Debug\net10.0\Homework7.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\obj\Debug\net10.0\Homework7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\obj\Debug\net10.0\Homework7.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\obj\Debug\net10.0\Homework7.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\obj\Debug\net10.0\Homework7.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\obj\Debug\net10.0\Homework7.csproj.Up2Date
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\obj\Debug\net10.0\Homework7.dll
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\obj\Debug\net10.0\refint\Homework7.dll
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\obj\Debug\net10.0\Homework7.pdb
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\obj\Debug\net10.0\Homework7.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\Networkprogramming\Homework7\Homework7\obj\Debug\net10.0\ref\Homework7.dll
